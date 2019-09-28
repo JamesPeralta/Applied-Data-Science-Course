@@ -264,9 +264,20 @@
   },
   {
    "cell_type": "code",
-   "execution_count": null,
+   "execution_count": 63,
    "metadata": {},
-   "outputs": [],
+   "outputs": [
+    {
+     "data": {
+      "text/plain": [
+       "['5.106.145.204']"
+      ]
+     },
+     "execution_count": 63,
+     "metadata": {},
+     "output_type": "execute_result"
+    }
+   ],
    "source": [
     "def get_ip_address(l):\n",
     "    ip = re.findall(\"(^\\S+)\", l)\n",
@@ -285,9 +296,20 @@
   },
   {
    "cell_type": "code",
-   "execution_count": null,
+   "execution_count": 64,
    "metadata": {},
-   "outputs": [],
+   "outputs": [
+    {
+     "data": {
+      "text/plain": [
+       "('POST', '/v1/crash-report/incident/report/', 200, 65)"
+      ]
+     },
+     "execution_count": 64,
+     "metadata": {},
+     "output_type": "execute_result"
+    }
+   ],
    "source": [
     "def get_http_info(l):\n",
     "    event = re.findall(\"\\\"(.+?) \\\"-\\\"\", l)\n",
@@ -311,18 +333,66 @@
   },
   {
    "cell_type": "code",
-   "execution_count": null,
+   "execution_count": 171,
    "metadata": {},
-   "outputs": [],
+   "outputs": [
+    {
+     "data": {
+      "text/plain": [
+       "datetime.datetime(2019, 9, 4, 18, 21, 39, tzinfo=datetime.timezone(datetime.timedelta(-1, 64800)))"
+      ]
+     },
+     "execution_count": 171,
+     "metadata": {},
+     "output_type": "execute_result"
+    }
+   ],
    "source": [
     "from datetime import datetime, timedelta, timezone\n",
     "from calendar import month_abbr\n",
+    "import pytz\n",
+    "import re\n",
     "\n",
+    "l = '5.106.145.204 - - [04/Sep/2019:13:51:39 +0430] \"POST /v1/crash-report/incident/report/ HTTP/1.1\" 200 65 \"-\" \"Dalvik/1.6.0 (Linux; U; Android 4.2.2; GT-S7272 Build/JDQ39)\"'\n",
     "MDT = timezone(timedelta(minutes=-6*60 + 0))\n",
     "\n",
     "def get_datetime(l):\n",
-    "    # Your solution here\n",
-    "    return ...\n",
+    "    # Create month_abbr dict\n",
+    "    month_abbrev = {}\n",
+    "    for i, month in enumerate(month_abbr):\n",
+    "        month_abbrev[month] = i\n",
+    "        \n",
+    "    \n",
+    "    # get date\n",
+    "    time = re.findall(\"^\\S+ - - \\[(.+)\\]\", l)\n",
+    "    splitted = re.findall(\"(\\S+)\", time[0])\n",
+    "    date = splitted[0]\n",
+    "    \n",
+    "    # break down date\n",
+    "    date_peices = re.findall(\"[A-Za-z0-9]+\", splitted[0])\n",
+    "    day = int(date_peices[0])\n",
+    "    month = int(month_abbrev[date_peices[1]])\n",
+    "    year = int(date_peices[2])\n",
+    "    hour = int(date_peices[3])\n",
+    "    minute = int(date_peices[4])\n",
+    "    second = int(date_peices[5])\n",
+    "    \n",
+    "    # create datetime object\n",
+    "    date = datetime(year, month, day, hour, minute, second, tzinfo=MDT)\n",
+    "    \n",
+    "    # get utc\n",
+    "    utc = re.findall(\"[+-]|..\", splitted[1])\n",
+    "    operator = utc[0]\n",
+    "    utc_hour = int(utc[1])\n",
+    "    utc_minutes = (utc_hour * 60) + int(utc[2])\n",
+    "    \n",
+    "    # generate datetime\n",
+    "    if operator == \"+\":\n",
+    "        date_utc = date + timedelta(minutes=utc_minutes)\n",
+    "    else:\n",
+    "        date_utc = date - timedelta(minutes=utc_minutes)\n",
+    "\n",
+    "    return date_utc\n",
     "\n",
     "get_datetime(l)  # Expected: datetime.datetime(2019, 9, 4, 3, 21, 39, tzinfo=datetime.timezone(datetime.timedelta(days=-1, seconds=64800)))"
    ]
@@ -369,6 +439,15 @@
    "metadata": {},
    "outputs": [],
    "source": []
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "# Sources:\n",
+    "- https://howchoo.com/g/ywi5m2vkodk/working-with-datetime-objects-and-timezones-in-python\n",
+    "\n"
+   ]
   }
  ],
  "metadata": {
