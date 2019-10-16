@@ -1,0 +1,251 @@
+,length,genres,release_date,budget,directors,movie_name
+0,142,['drama'],1994-10-14,25000000,['Frank Darabont'],The Shawshank Redemption
+1,175,"['crime', 'drama']",1972-03-24,6000000,['Francis Ford Coppola'],The Godfather
+2,202,"['crime', 'drama']",1974-12-20,13000000,['Francis Ford Coppola'],The Godfather: Part II
+3,152,"['action', 'crime', 'drama']",2008-07-18,185000000,['Christopher Nolan'],The Dark Knight
+4,96,['drama'],1957-04-10,350000,['Sidney Lumet'],12 Angry Men
+5,195,"['biography', 'drama', 'history']",1993-12-25,22000000,['Steven Spielberg'],Schindler's List
+6,201,"['adventure', 'drama', 'fantasy']",2003-12-17,94000000,['Peter Jackson'],The Lord of the Rings: The Return of the King
+7,154,"['crime', 'drama']",1994-10-14,8000000,['Quentin Tarantino'],Pulp Fiction
+8,161,['western'],1966-12-23,1200000,['Sergio Leone'],"Il buono, il brutto, il cattivo"
+9,139,['drama'],1999-10-15,63000000,['David Fincher'],Fight Club
+10,178,"['adventure', 'drama', 'fantasy']",2001-12-19,93000000,['Peter Jackson'],The Lord of the Rings: The Fellowship of the Ring
+11,122,"['crime', 'drama', 'thriller']",2019-10-04,55000000,['Todd Phillips'],Joker
+12,142,"['drama', 'romance']",1994-07-06,55000000,['Robert Zemeckis'],Forrest Gump
+13,148,"['action', 'adventure', 'sci-fi']",2010-07-16,160000000,['Christopher Nolan'],Inception
+14,124,"['action', 'adventure', 'fantasy']",1980-06-20,18000000,['Irvin Kershner'],Star Wars: Episode V - The Empire Strikes Back
+15,179,"['adventure', 'drama', 'fantasy']",2002-12-18,94000000,['Peter Jackson'],The Lord of the Rings: The Two Towers
+16,136,"['action', 'sci-fi']",1999-03-31,63000000,"['Lana Wachowski', 'Lilly Wachowski']",The Matrix
+17,133,['drama'],1975-11-19,3000000,['Milos Forman'],One Flew Over the Cuckoo's Nest
+18,146,"['biography', 'crime', 'drama']",1990-09-21,25000000,['Martin Scorsese'],Goodfellas
+19,207,"['adventure', 'drama']",1954-04-26,125000000,['Akira Kurosawa'],Shichinin no samurai
+20,127,"['crime', 'drama', 'mystery']",1995-09-22,33000000,['David Fincher'],Se7en
+21,130,"['crime', 'drama']",2002-08-30,3300000,"['Fernando Meirelles', 'Kátia Lund']",Cidade de Deus
+22,116,"['comedy', 'drama', 'romance']",1998-11-06,20000000,['Roberto Benigni'],La vita è bella
+23,118,"['crime', 'drama', 'horror']",1991-02-14,19000000,['Jonathan Demme'],The Silence of the Lambs
+24,130,"['drama', 'family', 'fantasy']",1947-01-07,3180000,['Frank Capra'],It's a Wonderful Life
+25,121,"['action', 'adventure', 'fantasy']",1977-05-25,11000000,['George Lucas'],Star Wars
+26,169,"['drama', 'war']",1998-07-24,70000000,['Steven Spielberg'],Saving Private Ryan
+27,125,"['animation', 'adventure', 'family']",2001-07-20,19000000,['Hayao Miyazaki'],Sen to Chihiro no kamikakushi
+28,189,"['crime', 'drama', 'fantasy']",1999-12-10,60000000,['Frank Darabont'],The Green Mile
+29,110,"['action', 'crime', 'drama']",1994-09-14,115000000,['Luc Besson'],Léon
+30,169,"['adventure', 'drama', 'sci-fi']",2014-11-07,165000000,['Christopher Nolan'],Interstellar
+31,133,"['drama', 'history']",,,['Masaki Kobayashi'],Seppuku
+32,106,"['crime', 'mystery', 'thriller']",1995-09-15,6000000,['Bryan Singer'],The Usual Suspects
+33,88,"['animation', 'adventure', 'drama']",1994-06-24,45000000,"['Roger Allers', 'Rob Minkoff']",The Lion King
+34,119,['drama'],1998-11-20,20000000,['Tony Kaye'],American History X
+35,116,"['adventure', 'comedy', 'sci-fi']",1985-07-03,19000000,['Robert Zemeckis'],Back to the Future
+36,150,"['biography', 'drama', 'music']",2003-01-24,35000000,['Roman Polanski'],The Pianist
+37,87,"['comedy', 'drama', 'family']",1936-02-25,1500000,['Charles Chaplin'],Modern Times
+38,137,"['action', 'sci-fi']",1991-07-03,102000000,['James Cameron'],Terminator 2: Judgment Day
+39,112,"['biography', 'comedy', 'drama']",2011-11-02,9500000,"['Olivier Nakache', 'Éric Toledano']",The Intouchables
+40,109,"['horror', 'mystery', 'thriller']",1960-09-08,806947,['Alfred Hitchcock'],Psycho
+41,155,"['action', 'adventure', 'drama']",2000-05-05,103000000,['Ridley Scott'],Gladiator
+42,87,"['comedy', 'drama', 'romance']",1931-03-07,1500000,['Charles Chaplin'],City Lights
+43,151,"['crime', 'drama', 'thriller']",2006-10-06,90000000,['Martin Scorsese'],The Departed
+44,106,"['drama', 'music']",2014-10-15,3300000,['Damien Chazelle'],Whiplash
+45,165,['western'],1968-12-21,5000000,['Sergio Leone'],Once Upon a Time in the West
+46,130,"['drama', 'mystery', 'sci-fi']",2006-10-20,40000000,['Christopher Nolan'],The Prestige
+47,181,"['action', 'adventure', 'sci-fi']",2019-04-26,356000000,"['Anthony Russo', 'Joe Russo']",Avengers: Endgame
+48,102,"['drama', 'romance', 'war']",1943-01-23,950000,['Michael Curtiz'],Casablanca
+49,89,"['animation', 'drama', 'war']",1988-04-16,3700000,['Isao Takahata'],Hotaru no haka
+50,112,"['mystery', 'thriller']",,1000000,['Alfred Hitchcock'],Rear Window
+51,155,['drama'],1988-11-17,5000000,['Giuseppe Tornatore'],Nuovo Cinema Paradiso
+52,117,"['horror', 'sci-fi']",1979-06-22,11000000,['Ridley Scott'],Alien
+53,115,"['action', 'adventure']",1981-06-12,18000000,['Steven Spielberg'],Raiders of the Lost Ark
+54,113,"['mystery', 'thriller']",2001-05-25,9000000,['Christopher Nolan'],Memento
+55,147,"['drama', 'mystery', 'war']",1979-08-15,31500000,"['Francis Ford Coppola', 'Francis Ford Coppola']",Apocalypse Now
+56,125,"['comedy', 'drama', 'war']",1941-03-07,2000000,['Charles Chaplin'],The Great Dictator
+57,137,"['drama', 'thriller']",2006-03-23,2000000,['Florian Henckel von Donnersmarck'],The Lives of Others
+58,165,"['drama', 'western']",2012-12-25,100000000,['Quentin Tarantino'],Django Unchained
+59,149,"['action', 'adventure', 'sci-fi']",2018-04-27,321000000,"['Anthony Russo', 'Joe Russo']",Avengers: Infinity War
+60,117,"['animation', 'action', 'adventure']",2018-12-14,90000000,"['Bob Persichetti', 'Peter Ramsey', '1 more credit']",Spider-Man: Into the Spider-Verse
+61,146,"['drama', 'horror']",1980-06-13,19000000,['Stanley Kubrick'],The Shining
+62,88,"['drama', 'war']",,935000,['Stanley Kubrick'],Paths of Glory
+63,98,"['animation', 'adventure', 'family']",2008-06-27,180000000,['Andrew Stanton'],WALL·E
+64,95,['comedy'],1964-01-29,1800000,['Stanley Kubrick'],Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb
+65,110,"['drama', 'film-noir']",1950-09-29,1752000,['Billy Wilder'],Sunset Blvd.
+66,134,"['animation', 'adventure', 'fantasy']",1999-11-26,2400000000,['Hayao Miyazaki'],Mononoke-hime
+67,120,"['action', 'drama', 'mystery']",2003-11-21,3000000,['Chan-wook Park'],Oldeuboi
+68,116,"['crime', 'drama', 'film-noir']",1958-02-19,3000000,['Billy Wilder'],Witness for the Prosecution
+69,132,"['comedy', 'drama', 'thriller']",2019-10-25,,['Bong Joon Ho'],Gisaengchung
+70,164,"['action', 'thriller']",2012-07-20,250000000,['Christopher Nolan'],The Dark Knight Rises
+71,229,"['crime', 'drama']",1984-06-01,30000000,['Sergio Leone'],Once Upon a Time in America
+72,137,"['action', 'adventure', 'sci-fi']",1986-07-18,18500000,['James Cameron'],Aliens
+73,122,['drama'],1999-10-01,15000000,['Sam Mendes'],American Beauty
+74,105,"['animation', 'adventure', 'family']",2017-11-22,175000000,"['Lee Unkrich', 'Adrian Molina']",Coco
+75,106,"['animation', 'drama', 'fantasy']",2016-08-26,370000000,['Makoto Shinkai'],Kimi no na wa.
+76,178,"['biography', 'drama', 'history']",1995-05-24,72000000,['Mel Gibson'],Braveheart
+77,149,"['adventure', 'drama', 'thriller']",1981-09-17,32000000,['Wolfgang Petersen'],Das Boot
+78,170,"['comedy', 'drama']",2009-12-25,550000000,['Rajkumar Hirani'],3 Idiots
+79,165,"['drama', 'family']",2007-12-21,,"['Aamir Khan', 'Amole Gupte']",Taare Zameen Par
+80,131,"['action', 'adventure', 'fantasy']",1983-05-25,32500000,['Richard Marquand'],Star Wars: Episode VI - Return of the Jedi
+81,81,"['animation', 'adventure', 'comedy']",1995-11-22,30000000,['John Lasseter'],Toy Story
+82,99,"['crime', 'drama', 'thriller']",1992-09-02,1200000,['Quentin Tarantino'],Reservoir Dogs
+83,160,"['biography', 'drama', 'history']",1984-09-19,18000000,['Milos Forman'],Amadeus
+84,161,"['action', 'biography', 'drama']",2016-12-23,700000000,['Nitesh Tiwari'],Dangal
+85,153,"['adventure', 'drama', 'war']",2009-08-21,70000000,['Quentin Tarantino'],Inglourious Basterds
+86,126,"['drama', 'romance']",1998-01-09,10000000,['Gus Van Sant'],Good Will Hunting
+87,117,"['crime', 'mystery', 'thriller']",1931-08-31,,['Fritz Lang'],M - Eine Stadt sucht einen Mörder
+88,102,['drama'],2000-11-03,4500000,['Darren Aronofsky'],Requiem for a Dream
+89,149,"['adventure', 'sci-fi']",1968-05-12,12000000,['Stanley Kubrick'],2001: A Space Odyssey
+90,128,"['mystery', 'romance', 'thriller']",1958-06-16,2479000,['Alfred Hitchcock'],Vertigo
+91,108,"['drama', 'romance', 'sci-fi']",2004-03-19,20000000,['Michel Gondry'],Eternal Sunshine of the Spotless Mind
+92,119,"['drama', 'mystery']",1941-09-05,839727,['Orson Welles'],Citizen Kane
+93,116,"['drama', 'war']",1987-07-10,30000000,['Stanley Kubrick'],Full Metal Jacket
+94,115,['drama'],2013-01-10,3800000,['Thomas Vinterberg'],Jagten
+95,136,"['adventure', 'mystery', 'thriller']",1959-09-26,3101000,['Alfred Hitchcock'],North by Northwest
+96,136,"['crime', 'drama', 'sci-fi']",1972-01-13,2200000,['Stanley Kubrick'],A Clockwork Orange
+97,104,"['comedy', 'crime']",2000-09-01,6000000,['Guy Ritchie'],Snatch
+98,122,"['comedy', 'romance']",2001-11-09,10000000,['Jean-Pierre Jeunet'],Amélie
+99,68,"['comedy', 'drama', 'family']",1921-02-06,250000,['Charles Chaplin'],The Kid
+100,89,['drama'],1948-11-24,133000,['Vittorio De Sica'],Ladri di biciclette
+101,170,"['crime', 'drama']",1983-12-09,25000000,['Brian De Palma'],Scarface
+102,103,"['comedy', 'musical', 'romance']",1952-04-11,2540800,"['Stanley Donen', 'Gene Kelly']",Singin' in the Rain
+103,228,"['adventure', 'biography', 'drama']",1963-01-30,15000000,['David Lean'],Lawrence of Arabia
+104,114,"['crime', 'drama']",1976-03-19,1300000,['Martin Scorsese'],Taxi Driver
+105,103,"['animation', 'adventure', 'comedy']",2010-06-18,200000000,['Lee Unkrich'],Toy Story 3
+106,129,"['comedy', 'crime', 'drama']",1973-12-25,5500000,['George Roy Hill'],The Sting
+107,153,"['drama', 'sci-fi']",1927-02-06,6000000,['Fritz Lang'],Metropolis
+108,132,['western'],1966-03-25,600000,['Sergio Leone'],Per qualche dollaro in più
+109,143,['drama'],1952-10-09,,['Akira Kurosawa'],Ikiru
+110,107,"['crime', 'drama', 'film-noir']",1944-07-06,927262,['Billy Wilder'],Double Indemnity
+111,123,['drama'],2011-03-16,500000,['Asghar Farhadi'],Jodaeiye Nader az Simin
+112,129,"['crime', 'drama']",,2000000,['Robert Mulligan'],To Kill a Mockingbird
+113,127,"['action', 'adventure']",1989-05-24,48000000,['Steven Spielberg'],Indiana Jones and the Last Crusade
+114,125,"['comedy', 'drama', 'romance']",1960-09-16,3000000,['Billy Wilder'],The Apartment
+115,126,['drama'],2018-09-20,4000000,['Nadine Labaki'],Capharnaüm
+116,96,"['animation', 'adventure', 'comedy']",2009-05-29,175000000,"['Pete Docter', 'Bob Peterson']",Up
+117,138,"['crime', 'drama', 'mystery']",1997-09-19,35000000,['Curtis Hanson'],L.A. Confidential
+118,91,"['adventure', 'comedy', 'fantasy']",1975-05-25,229575,"['Terry Gilliam', 'Terry Jones']",Monty Python and the Holy Grail
+119,130,"['drama', 'mystery', 'war']",2011-01-12,6800000,['Denis Villeneuve'],Incendies
+120,170,"['crime', 'drama', 'thriller']",1995-12-15,60000000,['Michael Mann'],Heat
+121,88,"['crime', 'drama', 'mystery']",1950-08-26,250000,['Akira Kurosawa'],Rashômon
+122,110,"['action', 'comedy', 'crime']",1961-04-25,,['Akira Kurosawa'],Yôjinbô
+123,140,"['action', 'adventure']",2005-06-15,150000000,['Christopher Nolan'],Batman Begins
+124,132,"['action', 'thriller']",1988-07-20,28000000,['John McTiernan'],Die Hard
+125,130,"['drama', 'western']",1992-08-07,14400000,['Clint Eastwood'],Unforgiven
+126,130,"['biography', 'comedy', 'drama']",2018-11-21,23000000,['Peter Farrelly'],Green Book
+127,156,"['biography', 'drama', 'history']",2004-09-16,13500000,['Oliver Hirschbiegel'],Der Untergang
+128,89,"['drama', 'family']",,180000,['Majid Majidi'],Bacheha-Ye aseman
+129,121,"['comedy', 'music', 'romance']",1959-05-14,2883848,['Billy Wilder'],Some Like It Hot
+130,160,"['crime', 'drama', 'thriller']",2013-12-19,35000000,['Jeethu Joseph'],Drishyam
+131,119,"['animation', 'adventure', 'family']",2005-06-17,24000000,['Hayao Miyazaki'],Hauru no ugoku shiro
+132,172,"['adventure', 'drama', 'history']",1963-07-04,4000000,['John Sturges'],The Great Escape
+133,86,"['animation', 'family', 'fantasy']",1988-04-16,3700000,['Hayao Miyazaki'],Tonari no Totoro
+134,162,"['action', 'drama']",1985-06-01,11500000,['Akira Kurosawa'],Ran
+135,135,"['biography', 'drama']",2002-01-04,58000000,['Ron Howard'],A Beautiful Mind
+136,138,['drama'],1950-10-27,1400000,['Joseph L. Mankiewicz'],All About Eve
+137,118,"['drama', 'fantasy', 'war']",2007-01-19,19000000,['Guillermo del Toro'],Pan's Labyrinth
+138,142,"['drama', 'war']",1985-10-17,,['Elem Klimov'],Idi i smotri
+139,178,"['crime', 'drama']",1995-11-22,52000000,['Martin Scorsese'],Casino
+140,129,"['drama', 'mystery', 'romance']",2009-08-13,2000000,['Juan José Campanella'],El secreto de sus ojos
+141,129,"['biography', 'drama', 'sport']",1980-12-19,18000000,['Martin Scorsese'],Raging Bull
+142,107,"['comedy', 'crime']",1998-08-28,960000,['Guy Ritchie'],"Lock, Stock and Two Smoking Barrels"
+143,108,"['drama', 'family']",2005-11-18,,['Çagan Irmak'],Babam ve Oglum
+144,126,"['adventure', 'drama', 'western']",,3000000,['John Huston'],The Treasure of the Sierra Madre
+145,180,"['biography', 'crime', 'drama']",2013-12-25,100000000,['Martin Scorsese'],The Wolf of Wall Street
+146,179,"['drama', 'war']",1961-12-18,3000000,['Stanley Kramer'],Judgment at Nuremberg
+147,115,"['crime', 'drama']",2017-12-01,15000000,['Martin McDonagh'],"Three Billboards Outside Ebbing, Missouri"
+148,130,"['drama', 'mystery', 'thriller']",1974-06-20,6000000,['Roman Polanski'],Chinatown
+149,95,"['adventure', 'comedy', 'drama']",1925-07-13,923000,['Charles Chaplin'],The Gold Rush
+150,105,"['crime', 'thriller']",1954-05-29,1400000,['Alfred Hitchcock'],Dial M for Murder
+151,95,"['animation', 'adventure', 'comedy']",2015-06-19,175000000,"['Pete Docter', 'Ronnie Del Carmen']",Inside Out
+152,132,"['action', 'drama', 'sci-fi']",2006-03-17,54000000,['James McTeigue'],V for Vendetta
+153,158,['drama'],2008-01-25,25000000,['Paul Thomas Anderson'],There Will Be Blood
+154,140,"['drama', 'sport']",2011-09-09,25000000,"[""Gavin O'Connor""]",Warrior
+155,96,"['drama', 'fantasy']",1957-02-16,150000,['Ingmar Bergman'],Det sjunde inseglet
+156,118,"['drama', 'thriller']",2016-01-15,13000000,['Lenny Abrahamson'],Room
+157,93,['drama'],1996-07-26,3500000,['Danny Boyle'],Trainspotting
+158,122,"['crime', 'drama', 'thriller']",2007-11-21,25000000,"['Ethan Coen', 'Joel Coen']",No Country for Old Men
+159,124,"['biography', 'drama']",1980-10-10,5000000,['David Lynch'],The Elephant Man
+160,139,"['crime', 'thriller']",2018-10-05,4500000,['Sriram Raghavan'],Andhadhun
+161,107,"['drama', 'mystery', 'thriller']",1999-08-06,40000000,['M. Night Shyamalan'],The Sixth Sense
+162,138,"['mystery', 'thriller']",2010-02-19,80000000,['Martin Scorsese'],Shutter Island
+163,109,"['horror', 'mystery', 'sci-fi']",1982-06-25,15000000,['John Carpenter'],The Thing
+164,161,"['adventure', 'drama', 'war']",,3000000,['David Lean'],The Bridge on the River Kwai
+165,238,"['drama', 'history', 'romance']",1940-01-17,3977000,"['Victor Fleming', 'George Cukor', '1 more credit']",Gone with the Wind
+166,117,"['action', 'sci-fi', 'thriller']",1982-06-25,28000000,['Ridley Scott'],Blade Runner
+167,104,"['film-noir', 'mystery', 'thriller']",1949-10-12,,['Carol Reed'],The Third Man
+168,108,"['crime', 'drama', 'thriller']",1954-06-22,910000,['Elia Kazan'],On the Waterfront
+169,128,"['crime', 'drama', 'thriller']",1996-11-29,1200000,['Yavuz Turgul'],Eskiya
+170,91,"['drama', 'romance']",1957-12-26,,['Ingmar Bergman'],Smultronstället
+171,127,"['action', 'adventure', 'sci-fi']",1993-06-11,63000000,['Steven Spielberg'],Jurassic Park
+172,100,"['animation', 'adventure', 'comedy']",2003-05-30,94000000,"['Andrew Stanton', 'Lee Unkrich']",Finding Nemo
+173,116,['drama'],2009-01-09,33000000,['Clint Eastwood'],Gran Torino
+174,98,"['crime', 'drama', 'thriller']",1996-04-05,7000000,"['Joel Coen', 'Ethan Coen']",Fargo
+175,111,"['action', 'crime', 'thriller']",2003-10-10,30000000,['Quentin Tarantino'],Kill Bill: Vol. 1
+176,183,"['drama', 'war']",1979-02-23,15000000,['Michael Cimino'],The Deer Hunter
+177,136,['drama'],1953-11-03,,['Yasujirô Ozu'],Tôkyô monogatari
+178,162,"['drama', 'sci-fi']",1980-04-17,6000000,['Andrei Tarkovsky'],Stalker
+179,117,"['comedy', 'crime']",1998-03-06,15000000,"['Joel Coen', 'Ethan Coen']",The Big Lebowski
+180,103,"['comedy', 'drama', 'sci-fi']",1998-06-05,60000000,['Peter Weir'],The Truman Show
+181,122,"['comedy', 'drama', 'thriller']",2014-08-21,3300000,['Damián Szifron'],Relatos salvajes
+182,92,"['animation', 'comedy', 'drama']",2009-04-09,8240000,['Adam Elliot'],Mary and Max
+183,139,"['biography', 'drama', 'history']",2016-11-04,40000000,['Mel Gibson'],Hacksaw Ridge
+184,149,"['drama', 'mystery', 'thriller']",2014-10-03,61000000,['David Fincher'],Gone Girl
+185,133,"['biography', 'drama']",1994-01-21,13000000,['Jim Sheridan'],In the Name of the Father
+186,45,"['action', 'comedy', 'romance']",1924-05-11,,['Buster Keaton'],Sherlock Jr.
+187,67,"['action', 'adventure', 'comedy']",1927-02-24,750000,"['Clyde Bruckman', 'Buster Keaton']",The General
+188,98,"['animation', 'action', 'adventure']",2010-03-26,165000000,"['Dean DeBlois', 'Chris Sanders']",How to Train Your Dragon
+189,129,"['comedy', 'drama']",1939-11-09,1900000,['Frank Capra'],Mr. Smith Goes to Washington
+190,99,"['adventure', 'comedy', 'crime']",2014-03-06,25000000,['Wes Anderson'],The Grand Budapest Hotel
+191,131,"['action', 'crime', 'drama']",2003-05-02,2800000,['Bong Joon Ho'],Salinui chueok
+192,85,"['drama', 'thriller']",1966-10-18,,['Ingmar Bergman'],Persona
+193,101,"['drama', 'romance']",1995-01-27,2500000,['Richard Linklater'],Before Sunrise
+194,141,"['biography', 'crime', 'drama']",2003-01-02,52000000,['Steven Spielberg'],Catch Me If You Can
+195,134,"['drama', 'music', 'romance']",1948-09-06,500000,"['Michael Powell', 'Emeric Pressburger']",The Red Shoes
+196,148,"['adventure', 'biography', 'drama']",2007-09-28,15000000,['Sean Penn'],Into the Wild
+197,131,"['adventure', 'drama', 'thriller']",1953-04-22,,['Henri-Georges Clouzot'],Le salaire de la peur
+198,127,"['crime', 'drama']",1967-11-01,3200000,['Stuart Rosenberg'],Cool Hand Luke
+199,134,"['biography', 'drama', 'history']",2013-11-08,20000000,['Steve McQueen'],12 Years a Slave
+200,121,['drama'],1976-12-16,3800000,['Sidney Lumet'],Network
+201,153,"['crime', 'drama', 'mystery']",2013-09-20,46000000,['Denis Villeneuve'],Prisoners
+202,94,['comedy'],1979-11-08,4000000,['Terry Jones'],Life of Brian
+203,110,"['biography', 'drama', 'history']",1928-10-25,,['Carl Theodor Dreyer'],La passion de Jeanne d'Arc
+204,89,"['adventure', 'drama']",1986-11-26,8000000,['Rob Reiner'],Stand by Me
+205,167,"['comedy', 'drama']",2006-01-26,,['Rakeysh Omprakash Mehra'],Rang De Basanti
+206,120,"['action', 'adventure', 'sci-fi']",2015-05-15,150000000,['George Miller'],Mad Max: Fury Road
+207,205,"['biography', 'drama', 'history']",,1000000,['Andrei Tarkovsky'],Andrei Rublev
+208,120,"['drama', 'war']",1987-02-06,6000000,['Oliver Stone'],Platoon
+209,123,"['biography', 'drama', 'sport']",2013-09-27,38000000,['Ron Howard'],Rush
+210,132,"['drama', 'sport']",2005-01-28,30000000,['Clint Eastwood'],Million Dollar Baby
+211,93,"['drama', 'family']",2010-03-12,16000000,['Lasse Hallström'],Hachi: A Dog's Tale
+212,137,"['action', 'drama', 'sci-fi']",2017-03-03,97000000,['James Mangold'],Logan
+213,185,"['adventure', 'drama', 'history']",1975-12-18,11000000,['Stanley Kubrick'],Barry Lyndon
+214,212,"['adventure', 'drama', 'history']",1960-01-29,15000000,['William Wyler'],Ben-Hur
+215,114,"['action', 'crime', 'drama']",1949-09-03,1300000,['Raoul Walsh'],White Heat
+216,117,"['animation', 'adventure', 'fantasy']",1984-03-11,1000000,['Hayao Miyazaki'],Kaze no tani no Naushika
+217,121,"['biography', 'drama', 'history']",2005-03-04,17500000,['Terry George'],Hotel Rwanda
+218,154,"['drama', 'thriller']",2000-06-16,2000000,['Alejandro G. Iñárritu'],Amores perros
+219,130,"['adventure', 'drama', 'fantasy']",2011-07-15,125000000,['David Yates'],Harry Potter and the Deathly Hallows: Part 2
+220,99,"['crime', 'drama']",1959-06-03,,['François Truffaut'],Les quatre cents coups
+221,129,"['biography', 'crime', 'drama']",2015-11-20,20000000,['Tom McCarthy'],Spotlight
+222,111,"['drama', 'film-noir']",1951-07-04,1800000,['Billy Wilder'],Ace in the Hole
+223,128,"['comedy', 'drama']",1989-06-09,16400000,['Peter Weir'],Dead Poets Society
+224,130,"['drama', 'mystery', 'romance']",1940-04-12,1288000,['Alfred Hitchcock'],Rebecca
+225,120,"['drama', 'sport']",1976-12-03,960000,['John G. Avildsen'],Rocky
+226,92,"['animation', 'adventure', 'comedy']",2001-11-02,115000000,"['Pete Docter', 'David Silverman', '1 more credit']","Monsters, Inc."
+227,105,"['comedy', 'romance']",1934-02-22,325000,['Frank Capra'],It Happened One Night
+228,321,"['action', 'comedy', 'crime']",2012-08-02,184000000,['Anurag Kashyap'],Gangs of Wasseypur
+229,98,"['crime', 'drama']",1995-09-01,2590000,['Mathieu Kassovitz'],La haine
+230,145,"['drama', 'romance', 'thriller']",2016-10-28,10000000000,['Chan-wook Park'],Ah-ga-ssi
+231,224,"['adventure', 'drama', 'musical']",2001-06-15,6000000,['Ashutosh Gowariker'],Lagaan: Once Upon a Time in India
+232,98,"['adventure', 'family', 'fantasy']",1987-10-09,16000000,['Rob Reiner'],The Princess Bride
+233,156,"['comedy', 'drama', 'musical']",2003-12-19,,['Rajkumar Hirani'],Munna Bhai M.B.B.S.
+234,153,"['comedy', 'drama', 'fantasy']",2014-12-19,,['Rajkumar Hirani'],PK
+235,110,"['biography', 'crime', 'drama']",1969-09-24,6000000,['George Roy Hill'],Butch Cassidy and the Sundance Kid
+236,146,['drama'],2011-08-10,25000000,['Tate Taylor'],The Help
+237,80,"['drama', 'romance']",2004-07-30,2700000,['Richard Linklater'],Before Sunset
+238,210,['drama'],2004-12-17,,['Ashutosh Gowariker'],"Swades: We, the People"
+239,124,"['animation', 'drama', 'sci-fi']",1988-07-16,1100000000,['Katsuhiro Ôtomo'],Akira
+240,95,"['drama', 'fantasy']",1966-09-22,,['Luis Buñuel'],El ángel exterminador
+241,107,"['action', 'sci-fi']",1984-10-26,6400000,['James Cameron'],The Terminator
+242,98,"['drama', 'romance']",2000-09-29,,['Kar-Wai Wong'],Faa yeung nin wa
+243,145,['drama'],1984-09-19,1162000,['Wim Wenders'],"Paris, Texas"
+244,121,"['action', 'adventure', 'comedy']",2014-08-01,170000000,['James Gunn'],Guardians of the Galaxy
+245,101,"['crime', 'drama', 'mystery']",2002-12-12,6428966,"['Andrew Lau', 'Alan Mak']",Mou gaan dou
+246,90,"['animation', 'adventure', 'comedy']",1992-12-25,28000000,"['Ron Clements', 'John Musker']",Aladdin
+247,121,"['drama', 'war']",1967-02-25,800000,['Gillo Pontecorvo'],La battaglia di Algeri
+248,163,"['crime', 'drama', 'mystery']",2015-07-31,9400000,['Nishikant Kamat'],Drishyam
+249,125,"['animation', 'adventure', 'drama']",1986-08-02,,['Hayao Miyazaki'],Tenkû no shiro Rapyuta
